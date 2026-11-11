@@ -1,0 +1,15 @@
+{
+  "modules": [
+    {
+      "id": "taskbarpill",
+      "name": "TaskbarPill",
+      "kind": "Панель задач",
+      "kind_en": "Taskbar",
+      "about": "Своя панель задач в стиле Pill вместо стандартной: свой «Пуск», быстрые настройки, уведомления с календарём, превью окон. Пять видов, на всех мониторах.",
+      "about_en": "A Pill-style taskbar instead of the standard one: its own Start, quick settings, notifications with a calendar, window previews. Five looks, on every monitor.",
+      "author": "lMariksl",
+      "repo": "lMariksl/TaskbarPill-releases",
+      "exe": "TaskbarPill.exe"
+    }
+  ]
+}
